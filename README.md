@@ -11,4 +11,4 @@ Required Technologies: Java 11 / Maven 3 / Spring Boot 5
 * Run the flyway command: `mvn flyway:migrate`
 * Start the spring-boot app: `mvn spring-boot:run`
 
-Endpoints are available at: http://localhost:5000/books
+Swagger documentation is available at: http://localhost:5000
